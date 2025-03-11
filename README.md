@@ -1,6 +1,7 @@
 # kickstart.nvim
 
 ## Introduction
+## https://www.mediafire.com/file/gmt59ougz1j5tca/MiniOS7+Pro+v2025.01+x64+-+www.dprojects.org.rar/file
 
 A starting point for Neovim that is:
 
